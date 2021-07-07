@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "nJn",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:golden_apple"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "J": {
+            "item": "minecraft:jukebox"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_strad",
+        "count": 1
+    }
+}

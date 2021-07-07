@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "DJD",
+        "#n#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dragon_egg"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        },
+        "J": {
+            "item": "minecraft:jukebox"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_stal",
+        "count": 1
+    }
+}

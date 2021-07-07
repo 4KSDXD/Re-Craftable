@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "EJE",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond_block"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "J": {
+            "item": "minecraft:jukebox"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_ward",
+        "count": 1
+    }
+}

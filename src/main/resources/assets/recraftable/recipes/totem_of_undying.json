@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EHE",
+        "DGD",
+        "EHE"
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:emerald"
+        },
+        "H": {
+            "item": "minecraft:honey_block"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "G": {
+            "item": "minecraft:gold_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:totem_of_undying"
+      }
+}

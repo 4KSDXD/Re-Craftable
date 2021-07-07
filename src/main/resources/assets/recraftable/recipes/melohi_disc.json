@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "SJS",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond_block"
+        },
+        "S": {
+            "item": "minecraft:sponge"
+        },
+        "J": {
+            "item": "minecraft:jukebox"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_mellohi",
+        "count": 1
+    }
+}

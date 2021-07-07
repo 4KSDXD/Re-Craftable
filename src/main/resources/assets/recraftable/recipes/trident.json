@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "DnP",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sea_lantern"
+        },
+        "P": {
+            "item": "minecraft:prismarine_bricks"
+        },
+        "D": {
+            "item": "minecraft:dark_prismarine"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:trident",
+        "count": 1
+    }
+}

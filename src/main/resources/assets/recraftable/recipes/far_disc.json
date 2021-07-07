@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gEg",
+        "EJE",
+        "gEg"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "E": {
+            "item": "minecraft:emerald_block"
+        },
+        "J": {
+            "item": "minecraft:jukebox"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_far",
+        "count": 1
+    }
+}

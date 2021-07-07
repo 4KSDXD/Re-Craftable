@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gLg",
+        "RJR",
+        "gLg"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "L": {
+            "item": "minecraft:lapis_block"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        },
+        "J": {
+            "item": "minecraft:jukebox"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_blocks",
+        "count": 1
+    }
+}

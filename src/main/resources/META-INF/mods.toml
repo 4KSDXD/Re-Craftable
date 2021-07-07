@@ -1,0 +1,18 @@
+modLoader="javafml"  
+loaderVersion="[35,)"  
+license="All rights reserved"  
+issueTrackerURL=""  
+ 
+[[mods]]  
+modId="recraftable"  
+version="1.0"  
+displayName="ReCraftable"  
+displayURL="https://www.curseforge.com/minecraft/mc-mods/recraftable"  
+logoFile="logo.png"  
+credits="Made by GentWorm"  
+authors="GentWorm"  
+description='''
+This mod gives you recipes to make un-craftable stuff in vanilla Minecraft.
+It gives you 29 more recipes to make vanilla items including all the music discs, horse armor, saddles and tons more
+If you have any suggestions, please leave them in the comments on the Curseforge page.
+'''  

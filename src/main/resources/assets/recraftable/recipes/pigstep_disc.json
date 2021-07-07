@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "GJG",
+        "E#E"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherite_block"
+        },
+        "G": {
+            "item": "minecraft:golden_apple"
+        },
+        "J": {
+            "item": "minecraft:jukebox"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        }
+    },
+    "result": {
+        "item": "minecraft:music_disc_pigstep",
+        "count": 1
+    }
+}
